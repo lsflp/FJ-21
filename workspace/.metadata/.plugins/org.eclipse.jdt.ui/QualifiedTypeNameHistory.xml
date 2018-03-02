@@ -7,8 +7,14 @@
 <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 <fullyQualifiedTypeName name="java.sql.Date"/>
 <fullyQualifiedTypeName name="java.util.ArrayList"/>
-<fullyQualifiedTypeName name="java.util.Calendar"/>
 <fullyQualifiedTypeName name="br.com.caelum.jdbc.dao.ContatoDao"/>
 <fullyQualifiedTypeName name="br.com.caelum.jdbc.modelo.Contato"/>
 <fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServlet"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="br.com.caelum.agenda.modelo.Contato"/>
+<fullyQualifiedTypeName name="br.com.caelum.agenda.dao.ContatoDao"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
 </qualifiedTypeNameHistroy>

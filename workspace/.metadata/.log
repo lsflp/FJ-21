@@ -80,3 +80,49 @@ Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp
 
 !ENTRY org.eclipse.jface.text 2 0 2018-02-28 21:14:27.389
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-28 22:58:17.270
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-28 22:58:27.707
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-02-28 22:59:09.313
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+!SESSION 2018-03-01 19:21:10.474 -----------------------------------------------
+eclipse.buildId=4.6.3.M20170301-0400
+java.version=1.8.0_161
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:19:31.367
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:19:31.395
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:21:18.137
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:21:18.137
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-03-01 20:22:16.743
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-03-01 20:23:12.599
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-03-01 20:23:31.534
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.wst.server.core 4 0 2018-03-01 20:23:43.762
+!MESSAGE Server Tomcat v7.0 Server at localhost failed to start.
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:58:04.844
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-01 20:58:04.845
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
