@@ -5,22 +5,22 @@
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="172" key="dialogHeight"/>
-		<item value="272" key="dialogWidth"/>
+		<item value="160" key="dialogHeight"/>
+		<item value="260" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="1"/>
 			<item value="1"/>
 		</list>
 		<list key="orderedElements">
-			<item value="org.eclipse.wst.html.core.htmlsource.sourcefj21-agenda/WebContent/adiciona-contato.jsp"/>
+			<item value="org.eclipse.search.SearchResultView"/>
 			<item value="org.eclipse.wst.server.ui.ServersView"/>
 		</list>
 		<list key="orderedProviders">
-			<item value="org.eclipse.ui.editors"/>
+			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
 		</list>
 		<list key="textArray">
-			<item value="adiciona"/>
+			<item value="search"/>
 			<item value="server"/>
 		</list>
 	</section>
