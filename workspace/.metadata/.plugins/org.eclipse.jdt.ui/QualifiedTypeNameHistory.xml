@@ -17,4 +17,5 @@
 <fullyQualifiedTypeName name="br.com.caelum.agenda.modelo.Contato"/>
 <fullyQualifiedTypeName name="br.com.caelum.agenda.dao.ContatoDao"/>
 <fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
 </qualifiedTypeNameHistroy>
