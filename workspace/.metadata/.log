@@ -531,3 +531,9 @@ java.net.UnknownHostException: download.eclipse.org
 
 !ENTRY org.eclipse.jface.text 2 0 2018-03-06 21:43:32.714
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-06 22:49:49.053
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-03-06 22:49:49.053
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
