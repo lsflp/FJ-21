@@ -5,8 +5,8 @@
 		<item value="0" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="160" key="dialogHeight"/>
-		<item value="260" key="dialogWidth"/>
+		<item value="154" key="dialogHeight"/>
+		<item value="254" key="dialogWidth"/>
 		<list key="textEntries">
 			<item value="1"/>
 			<item value="1"/>
@@ -39,6 +39,7 @@
 	<section name="ZipFileImportWizard">
 		<item value="false" key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="/home/web7495/Desktop/21/projeto-tarefas.zip"/>
 			<item value="/home/web7495/Desktop/21/dao-modelo.zip"/>
 		</list>
 	</section>
